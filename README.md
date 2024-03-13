@@ -3,7 +3,7 @@ What happens if you take a course on Udemy and upload your result here.
 Visual Studio Code Extensions:
 
     - https://www.nuget.org/packages/dotnet-ef/
-    -
+    - https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
     -
 
 Viewing the results:
