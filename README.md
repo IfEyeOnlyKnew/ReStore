@@ -2,9 +2,9 @@ What happens if you take a course on Udemy and upload your result here.
 
 learn-to-build-an-e-commerce-store-with-dotnet-react-redux
 
-API     dotnet watch --o-hot-reload
+API     dotnet watch --o-hot-reload  [Backend]
 
-Client  npm run dev
+Client  npm run dev   [Front End]
 
 Visual Studio Code Extensions:
 
