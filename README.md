@@ -15,6 +15,7 @@ Visual Studio Code Extensions:
     
     - https://nodejs.org/en
     - https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+    - json2ts.com [generate TypeScript interfaces from JSON]
 
 Section 2
 
