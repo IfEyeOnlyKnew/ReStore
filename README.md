@@ -10,7 +10,12 @@ Visual Studio Code Extensions:
     - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
     - https://marketplace.visualstudio.com/items?itemName=patcx.vscode-nuget-gallery
     - https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
-    - 
+
+Section 2
+    .net solution / Web API Template / Entity Framework / Class / Database
+
+Section 3
+
 
 Viewing the results:
   http://localhost:5000/swagger/index.html
