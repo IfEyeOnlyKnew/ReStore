@@ -17,6 +17,8 @@ Section 2
 
 Section 3
 
+React / Template / useState / useEffect / Typescript / CORS / 
+
 
 Viewing the results:
   http://localhost:5000/swagger/index.html
