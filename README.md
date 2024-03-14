@@ -17,7 +17,7 @@ Section 2
 
 Section 3
 
-React / Template / useState / useEffect / Typescript / CORS / 
+   - Vite / Template / useState / useEffect / Typescript / CORS / Axios / Material UI / Redux / Forms / React-Router
 
 
 Viewing the results:
