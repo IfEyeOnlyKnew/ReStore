@@ -11,6 +11,11 @@ Visual Studio Code Extensions:
     - https://marketplace.visualstudio.com/items?itemName=patcx.vscode-nuget-gallery
     - https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
 
+    Install
+    
+    - https://nodejs.org/en
+    - https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+
 Section 2
 
    - .net solution / Web API Template / Entity Framework / Class / Database
