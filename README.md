@@ -1,6 +1,6 @@
 What happens if you take a course on Udemy and upload your result here.
 
-https://mgit.udemy.com/course/learn-to-build-an-e-commerce-store-with-dotnet-react-redux
+learn-to-build-an-e-commerce-store-with-dotnet-react-redux
 
 API     dotnet watch --o-hot-reload
 
