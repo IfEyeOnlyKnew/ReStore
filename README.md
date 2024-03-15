@@ -32,4 +32,14 @@ Section 3
 Vite / Template / useState / useEffect / Typescript / CORS / Axios / Material UI / Redux / Forms / React-Router
 https://mui.com/material-ui/getting-started/installation/
 Install React dev tool for your browser
+
+Section 4
+
+React Router / 
+
+Install > npm install react-router-dom
+Install > npm i axios
+
+https://reactrouter.com/en/main/start/tutorial
+
 Viewing the results: http://localhost:5000/swagger/index.html
