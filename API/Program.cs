@@ -38,11 +38,10 @@ var logger = scope.ServiceProvider.GetRequiredService<ILogger<Program>>();
 try
 {
     context.Database.Migrate();
-    Dbinitializer.Initialize(context);
+    DbInitializer.Initialize(context);
 }
 catch (Exception ex)
-{
-    
+{    
     logger.LogError(ex, "A problem has occurred during migration.");
 }
 
